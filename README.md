@@ -1,6 +1,7 @@
 # CSCI5593
 
-# Spoiler Alert! Project for CSCI 5593.
+# Spoiler Alert! 
+## Project for CSCI 5593
 
 Spoiler: Contains Presentations, Source Code, Results and Readme.
 
