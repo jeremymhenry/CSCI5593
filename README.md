@@ -4,7 +4,7 @@
 
 Spoiler: Contains Presentations, Source Code, Results and Readme.
 
-Spoiler/Presentations . 
+Spoiler/Presentations 
 Spoiler/src . 
 Spoiler/README.docx . 
 Spoiler/results_SpoilerTeam.xlsx
