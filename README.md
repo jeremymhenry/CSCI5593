@@ -11,6 +11,6 @@ Spoiler: Contains Presentations, Source Code, Results and Readme.
 - Spoiler/results_SpoilerTeam.xlsx
   
 
-Team #5: Julio Soto, Jeremy Henry, Kushal Kusram, Mien Nguyen
+### Team #5: Julio Soto, Jeremy Henry, Kushal Kusram, Mien Nguyen
 
 University of Colorado, Denver
